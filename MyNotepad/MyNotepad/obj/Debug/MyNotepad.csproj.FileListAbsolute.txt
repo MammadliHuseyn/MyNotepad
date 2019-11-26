@@ -1,0 +1,8 @@
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Notepad.resources
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.cache
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+C:\Users\Husey\source\repos\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
